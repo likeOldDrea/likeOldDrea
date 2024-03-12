@@ -157,9 +157,7 @@ Mac                      3 hrs 57 mins       ███████████�
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />&emsp;
-连续提交代码天数记录
 
-<img src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>

@@ -152,12 +152,13 @@ Mac                      3 hrs 57 mins       ███████████�
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=likeOldDrea&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likeOldDrea&theme=default&hide_border=true" />
 </picture>
-连续提交代码天数记录
 
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />&emsp;
+连续提交代码天数记录
+
 <img src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />
 <!-- GitHub Activity Graph GitHub 活动图 -->

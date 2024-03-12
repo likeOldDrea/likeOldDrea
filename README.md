@@ -42,10 +42,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;嗨，你好，我是雏鹰同学。</p>
+<p>&emsp;&emsp;热爱编程、读书、旅行。</p>
+<p>&emsp;&emsp;一名正在不断进步中的程序员。从写下第一行代码的那一刻起，我就深深被编程的魅力所吸引。</p>
+<p>&emsp;&emsp;虽然路途中遇到过挑战和困难，但这些都成为了我成长的垫脚石。</p>
+<p>&emsp;&emsp;我相信，只要不停地学习和实践，每个雏鹰都能展翅翱翔。现在，我仍在这条成长之路上，期待遇见更好的自己。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>

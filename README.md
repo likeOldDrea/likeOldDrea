@@ -40,7 +40,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/jobs.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/jobs_001.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是雏鹰同学。</p>
 <p>&emsp;&emsp;热爱编程、读书、旅行。</p>

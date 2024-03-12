@@ -108,12 +108,11 @@
 
 </div>
 
-到战斗力
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/hr.gif" />
 
 <div align="center" >
-
+到战斗力
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/mb.png" width="250" height="250" />
 

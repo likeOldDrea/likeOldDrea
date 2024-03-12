@@ -145,7 +145,7 @@ Mac                      3 hrs 57 mins       ███████████�
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-
+连续提交代码天数记录
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/left.png" />
 <picture>
@@ -159,7 +159,6 @@ Mac                      3 hrs 57 mins       ███████████�
 <img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />
-基础资料
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>

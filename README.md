@@ -61,21 +61,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/8684f2cb/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/a8bf3922/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/2c20bbfc/' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
 
 ### 🧠 Second Brain
 

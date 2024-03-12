@@ -159,7 +159,7 @@ Mac                      3 hrs 57 mins       ███████████�
 <img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/cxyduck.gif" />
-
+基础资料
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>

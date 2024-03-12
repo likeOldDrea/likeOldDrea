@@ -145,9 +145,9 @@ Mac                      3 hrs 57 mins       ███████████�
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-连续提交代码天数记录
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/likeOldDrea/likeOldDrea/assets/images/left.png" />
+连续提交代码天数记录
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=likeOldDrea&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=likeOldDrea&theme=light&hide_border=true" />
